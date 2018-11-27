@@ -1,0 +1,43 @@
+.first {
+  height: 150px;
+  width: 100%;
+  background-color: lightgray;
+  padding: 25px;
+}
+
+.inner-box {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+.second {
+  height: 450px;
+}
+
+.second p {
+  margin: 60px;
+  font-size: 35px;
+  padding-top: 50px;
+  line-height: 1.4;
+}
+
+.third {
+  height: 150px;
+  background-color: blue;
+}
+
+.fourth {
+  height: 150px;
+  background-color: #50e3c2;
+}
+
+.fifth {
+  height: 150px;
+  background-color: #b8e986;
+}
+
+.sixth {
+  height: 150px;
+  background-color: #f8e71c;
+}
